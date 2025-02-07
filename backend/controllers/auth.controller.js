@@ -160,3 +160,6 @@ export const refreshToken = async (req, res) => {
     });
   }
 };
+
+//implement getProfile later
+//export const getProfile = async (req, res) => {}
